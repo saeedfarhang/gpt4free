@@ -80,6 +80,7 @@ html,
 body {
     scroll-behavior: smooth;
     overflow: hidden;
+    height: 100%;
 }
 
 body {
@@ -629,7 +630,7 @@ ul {
 
 @media screen and (max-height: 640px) {
     body {
-        height: 87vh
+        height: 100%
     }
 }
 
